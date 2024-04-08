@@ -10,3 +10,4 @@ Käyttäjä voi etsiä arvosteluja elokuvista nimien ja gendrejen perusteella. H
 Käyttäjä voi kirjoittaa uuden viestin olemassa olevaan ketjuun (arvosteluun).
 Ylläpitäjä voi lisätä ja poistaa elokuvia ja muuttaa niiden genreä. Ylläpitäjä voi poistaa arvosteluja.
 
+Sovellukseen voi luoda uuden tunnuksen sekä kirjautua sisään ja ulos. Ei pysty testaamaan tuotannossa.
